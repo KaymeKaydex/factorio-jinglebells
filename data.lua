@@ -4,7 +4,7 @@ data:extend { {
 } }
 
 do
-    local item = table.deepcopy(data.raw.item['trees'])
+    local item = table.deepcopy(data.raw.terrain['trees'])
     item.name = "christmas-tree"
     item.order = "c[christmas-tree]"
     item.place_result = "christmas-tree"
