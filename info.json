@@ -1,0 +1,12 @@
+{
+  "name": "jinglebells",
+  "version": "0.1.0",
+  "title": "Jingle Bells Decorations",
+  "author": "quedafoe & staurran",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Jingle Bells Decorations brings the festive spirit of the holidays to Factorio with unique decorations like lights and other seasonal items. The mod also introduces a new type of armor that leaves a trail of damaging fire as you walk, adding both an aesthetic and practical touch to your base. Celebrate the holidays in style while defending your factory!",
+  "homepage": "https://github.com/KaymeKaydex/factorio-jinglebells"
+}
